@@ -7,7 +7,7 @@
 | 3   | Private Audit                                                                                                       | DEX                                         |  Rust, Solana         |    Q1-25     | 
 | 4   | Private Audit                                                                                                       |  Token, NFT                                 |  Solidity             |    Q1-25     |
 | 5   | Private Audit                                                                                                       |  Vault                                           |  Solidity             |    Q2-25     |
-| 6   | Art Portfolio    |     NFT                                        |  Solidity             |    Q2-25     |
+| 6   | Art Portfolio    | NFT, ERC2981                                        |  Solidity             |    Q2-25     |
 
 
 
